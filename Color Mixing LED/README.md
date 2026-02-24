@@ -8,5 +8,6 @@
 - 3 x Phototransistors
 - 3 x 220Ω Resistors
 - 3 x 10kΩ Resistors
-- 13 x Jumper Wires
+- 2x Jumper Wires
+- 11 x Misc Wires
 
