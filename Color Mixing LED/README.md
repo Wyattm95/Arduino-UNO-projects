@@ -8,6 +8,7 @@ The raw and mapped values are displayed in the Serial Monitor for debugging and 
 
 ## Components
 - Arduino
+- Breadboard
 - 1 x LED
 - 3 x Phototransistors
 - 3 x 220Ω Resistors
