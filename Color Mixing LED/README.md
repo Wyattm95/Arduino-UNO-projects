@@ -1,2 +1,2 @@
 ## Description
-![Wiring Diagram(Color Mixing LED.png)
+![Wiring Diagram](Color Mixing LED.png)
