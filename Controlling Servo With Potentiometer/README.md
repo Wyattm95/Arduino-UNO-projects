@@ -5,4 +5,5 @@ to a servo angle between 0° and 179°, and moves the servo accordingly.
 The raw sensor value and the mapped angle are displayed in the Serial Monitor for debugging.
 
 ## Wiring Diagram
+![Servo Wiring Diagram](Servo_Wiring_Diagram.png)
 ## Components
