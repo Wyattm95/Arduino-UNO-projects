@@ -7,3 +7,11 @@ The raw sensor value and the mapped angle are displayed in the Serial Monitor fo
 ## Wiring Diagram
 ![Servo Wiring Diagram](Servo_Wiring_Diagram.png)
 ## Components
+- Arduino
+- Breadboard
+- Servo Motor + Motor Arm
+- 2 x 100uF Capacitors
+- Potentiometer
+- 2 x Jumper Cables
+- 6 x Misc Wires
+- 3 x Male Header Pins (depending on connector configuration of Servo Motor)
