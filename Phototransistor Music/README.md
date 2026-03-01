@@ -8,4 +8,13 @@ allowing the piezo to generate tones that change in real time based on ambient l
 
 ## Wiring Diagram
 
+![Phototransistor Music](Phototransistor%20Music.png)
+
 ## Components 
+- Arduino
+- Breadboard
+- Piezo
+- Phototransistor
+- 1 x 10k Ω resistor
+- 2 x Jumper Cabels
+- 4 x Misc Wires
